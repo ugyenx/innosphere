@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build outputs
+build/    # React's default build folder
+dist/     # Common for Node/TypeScript
+
+# OS/Editor files
+.DS_Store # Mac metadata
+.vscode/  # VS Code settings (optional)
